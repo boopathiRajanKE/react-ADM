@@ -1,0 +1,41 @@
+.molecule--bannerText {
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+.bannerText--image {
+    width: 100%;
+    max-width: 300px;
+}
+
+.bannerText--heading {
+    margin: 4px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.bannerText--text {
+    font-size: 15px;
+    font-weight: normal;
+    color: #cccccc;
+}
+.bannerText--button {
+    border: none;
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    padding: 3px 13px 3px 0;
+    cursor: pointer;
+}
+.bannerText--button > span {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.14;
+}

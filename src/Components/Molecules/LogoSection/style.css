@@ -1,0 +1,12 @@
+.molecule-logo > span {
+    padding: 4px 5px;
+    margin-right: 2px;
+    background-color: #e91d2d;
+    color: white;
+    font-weight: bold;
+    font-size: calc(15px + 0.5vw);
+    border-radius: 2px;
+}
+.molecule-logo > span:last-child {
+    margin-right: 0px;
+}

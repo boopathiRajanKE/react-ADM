@@ -1,0 +1,16 @@
+.molecule--imageList.atom--image {
+    width: 22vw;
+    min-width: 170px;
+    margin-right: 15px;
+    max-width: 350px;
+}
+.molecule--imageList.portrait.atom--image {
+    width: 14.5vw;
+    min-width: 100px;
+    max-width: 200px;
+
+}
+
+.molecule--imageList.atom--image:last-child {
+    margin-right: 0;
+}

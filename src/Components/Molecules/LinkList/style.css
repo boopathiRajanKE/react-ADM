@@ -1,0 +1,32 @@
+.molecule--footerMenu .linkList--item {
+    font-size: 12px;    
+    line-height: 1.31;
+    letter-spacing: 0.25px;
+    color: #cccccc;
+    margin-right: 18px;
+}
+.molecule--footerMenu .linkList--item:last-child {
+    margin-right: 0px;
+}
+
+.molecule--socialLinks {
+    display: flex;
+}
+
+.molecule--socialLinks .linkList--item {
+    width: 30px;
+    height: 30px;
+    font-weight: bold;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    background-color: #2e1b30;
+    border-radius: 100px;
+    color: white;
+}
+
+.molecule--socialLinks .linkList--item:last-child {
+    margin-right: 0px;
+}
